@@ -1,5 +1,5 @@
 # Reinforcement-Learning
-This is the solution to a car which solves an obstacle course using reinforcement learning.
+This is the solution to a car which solves an obstacle course using reinforcement learning (Q learning).
 
 More details about the assignment can be found here.
 
